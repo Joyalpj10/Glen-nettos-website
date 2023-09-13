@@ -515,6 +515,7 @@ p {
 }
 #contact .contact-items {
 	width: 400px;
+	padding-left: 20px;
 }
 #contact .contact-item {
 	width: 80%;
